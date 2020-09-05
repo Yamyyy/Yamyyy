@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi
+我是应俊杰，就读于福州大学计算机系
+平时没有学习，所以很菜
+会一点java、python，和一些前端开发
+有一些软件开发比赛经历
+乐于分享，想要分享，充满热情
+服务外包与软件设计实验室成员
+常驻数计2号楼201，欢迎找我玩！
 <!--
 **Yamyyy/Yamyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
